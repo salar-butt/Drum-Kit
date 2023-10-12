@@ -14,14 +14,3 @@ if(audio){
 }
 return
 })
-// var secondkey=document.querySelectorAll('.key')
-// secondkey.forEach((e)=>{
-//     e.addEventListener('transitionend',remove)
-// })
-// function remove(k){
-//     if(k.propertyName="transform"){
-//         this.classList.remove("play")
-      
-//     }
-//     return
-// }
